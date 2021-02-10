@@ -1,7 +1,9 @@
 # react-native-template
 Template react-native configurado com as principais libs para desenvolvimento RN
 
-<!-- TABLE OF CONTENTS -->
+<h1 align="center">
+    <img alt="Template" src="templatern.PNG"  width="" />
+</h1> 
 
 
 ## Sobre o Projeto
